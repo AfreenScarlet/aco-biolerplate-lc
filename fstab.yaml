@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/AfreenScarlet/aco-biolerplate-lc/
+    url: https://content.da.live/afreenscarlet/aco-biolerplate-lc/
     type: markup
 
 folders:
